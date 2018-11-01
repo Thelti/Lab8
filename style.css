@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+
+div{
+	background-color:blue;
+	border: blue 1px solid;
+	height: 100%;
+	width: 90%;
+	position: absolute;
+	top:0;
+	bottom:0;
+	left: 60px;
+}
+
+#inner{
+	border: black 4px solid;
+	height: 50%;
+	width: 80%;
+	position: relative;
+	top:150px;
+	left: 150px;
+}
+p{
+	color: red;
+	border: green 2px dashed;
+	width: 95%;
+	padding: 3px;
+	font-size:12px;
+	margin-left: 10px;
+}
+
+img{
+	border: yellow 2px dashed;
+	padding: 20px;
+	position:absolute;
+	bottom: 0;
+}
+
